@@ -1,0 +1,28 @@
+From: IT Support <it-support@example.test>
+To: employee@example.test
+Subject: Urgent: Account Verification Required
+Date: Fri, 03 Oct 2026 09:15:00 +0530
+Message-ID: <20261003091500@example.test>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Hello Employee,</p>
+
+<p>Your account requires verification due to a recent security update.</p>
+
+<p>Please review your account information using the link below:</p>
+
+<p>
+<a href="https://secure-login.example.test/verify">
+Verify Your Account
+</a>
+</p>
+
+<p>If verification is not completed, access may be temporarily restricted.</p>
+
+<p>Regards,<br>
+IT Support</p>
+</body>
+</html>
